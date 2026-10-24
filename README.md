@@ -28,7 +28,6 @@ Python
 # Infinity Norm of a Matrix
 
 
-
 <img width="1232" height="400" alt="WhatsApp Image 2026-10-24 at 9 03 58 AM (4)" src="https://github.com/user-attachments/assets/c7a4a23c-abb2-4233-82e3-376a33a4db89" />
 
 
